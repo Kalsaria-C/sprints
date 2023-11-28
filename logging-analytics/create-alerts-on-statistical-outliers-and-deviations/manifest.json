@@ -1,0 +1,12 @@
+{
+   "workshoptitle": "LiveLabs Sprints",
+   "help": "livelabs-help-**enterarea**_us@oracle.com",
+   "tutorials": [
+      {
+         "title": "How to create alerts on statistical outliers and deviations?",
+         "description": "This sprint explains the guided regex parser creation flow to create single and multi-parsers",
+         "filename": "create-alerts-on-statistical-outliers-and-deviations.md"
+      }
+   ],
+   "task_type": "Sections"
+}
